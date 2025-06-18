@@ -57,9 +57,9 @@ export default {
                     this.$emit('onError', e)
                 }
 
-                // Verifica se o resultado da operação é um número válido (não é NaN ou Infinito)
+                    // Verifica se o resultado da operação é um número válido (não é NaN ou Infinito)
                 if (isNaN(this.values[0]) || !isFinite(this.values[0])) {
-                // Se não for, limpa a calculadora e interrompe a execução do método
+                    // Se não for, limpa a calculadora e interrompe a execução do método
                     this.clearMemory()
                     return
                 }
