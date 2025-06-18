@@ -57,6 +57,13 @@ export default {
                     this.$emit('onError', e)
                 }
 
+                // Verifica se o resultado da operação é um número válido (não é NaN ou Infinito)
+                if (isNaN(this.values[0]) || !isFinite(this.values[0])) {
+                // Se não for, limpa a calculadora e interrompe a execução do método
+                    this.clearMemory()
+                    return
+                }
+
                 this.values[1] = 0;
                 this.displayValue = this.values[0];
                 this.operation = equals ? null : operation;
@@ -87,7 +94,7 @@ export default {
 
 <style>
 .calculator {
-    height: 320px;
+    height: 320px;  
     width: 235px;
     border-radius: 5px;
     overflow: hidden;
