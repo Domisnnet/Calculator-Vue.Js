@@ -1,4 +1,4 @@
-<h2 id="sobre-o-projeto">1. 🧮 Calculadora Vue: Engenharia de Estados 🚀</h2>
+<h2 id="sobre-o-projeto">1. Calculadora Vue: Engenharia de Estados 🧮</h2>
 
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-Vue.js%20%7C%20CSS-4FC08D)
