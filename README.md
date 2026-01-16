@@ -4,8 +4,6 @@
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-Vue.js%20%7C%20CSS-4FC08D)
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/calculadora-vue/blob/main/LICENSE)
 
-![Preview da Calculadora Vue](src/assets/iMac-24-1120x630.png)
-
 Bem-vindo à **Calculadora Vue**! Diferente de uma calculadora simples em JS, este projeto utiliza o ecossistema **Vue.js** para gerenciar uma interface reativa e modular. O foco aqui foi a criação de um componente principal (`MainCalculator`) que orquestra a lógica aritmética enquanto mantém uma interface elegante e minimalista, utilizando tipografia customizada para uma experiência de usuário superior.
 
 ---
@@ -36,7 +34,7 @@ Bem-vindo à **Calculadora Vue**! Diferente de uma calculadora simples em JS, es
 Faça seus cálculos com precisão reativa agora mesmo:
 
 <div align="left">
-  <a href="https://domisnnet.github.io/calculadora-vue/" target="_blank">
+  <a href="https://github.com/Domisnnet/Calculator-Vue.Js" target="_blank">
     <img alt="Botão Acessar" src="src/assets/botão.webp" height="70" width="70" />
   </a>
 </div>
@@ -109,7 +107,7 @@ Siga os passos abaixo para adicionar novas funções matemáticas:
 
 Analise os componentes e a tipografia do projeto:
 
-[![Código](https://img.shields.io/badge/Código%20Fonte-Acessar-795548?style=for-the-badge&logo=github)](https://github.com/Domisnnet/calculadora-vue/tree/main)
+[![Código](https://img.shields.io/badge/Código%20Fonte-Acessar-795548?style=for-the-badge&logo=github)](https://github.com/Domisnnet/calculadora-Vue.Js/tree/main)
 
 ---
 
@@ -134,4 +132,6 @@ Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badg
 
 <h2 id="perfil-do-github">12. 👨‍💻 Perfil do GitHub</h2>
 
-<a href="https://github.com/Domisnnet"> <img src="src/assets/DomisDev.png" width="120" alt="Acessar perfil GitHub"> </a>
+<a href="https://github.com/Domisnnet"> 
+  <img src="src/assets/DomisDev.png" width="120" alt="Acessar perfil GitHub"> 
+</a>
