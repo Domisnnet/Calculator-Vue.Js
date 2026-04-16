@@ -40,7 +40,7 @@ Bem-vindo à **Calculadora Vue**! Diferente de uma calculadora simples em JS, es
 Faça seus cálculos com precisão reativa agora mesmo:
 
 <div align="left">
-  <a href="https://github.com/Domisnnet/Calculator-Vue.Js" target="_blank">
+  <a href="https://calculator-vuejs-1815691-414e4.web.app/" target="_blank">
     <img alt="Botão Acessar" src="src/assets/botão.webp" height="70" width="70" />
   </a>
 </div>
