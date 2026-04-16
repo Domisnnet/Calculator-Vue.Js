@@ -75,7 +75,13 @@ A implementação de fontes locais via `@font-face` assegura que o design "Robot
 
 Explore a lógica de componentes desta Calculadora:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FCalculator-Vue.Js-1DB954?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Calculator-Vue.Js)
+```bash
+# Clonar o repositório
+git clone [https://github.com/Domisnnet/Calculator-Vue.Js.git](https://github.com/Domisnnet/Calculator-Vue.Js.git)
+
+# Acessar a pasta
+cd Calculator-Vue.Js
+```
 
 ---
 
