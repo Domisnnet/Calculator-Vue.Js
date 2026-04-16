@@ -77,7 +77,7 @@ Explore a lógica de componentes desta Calculadora:
 
 ```bash
 # Clonar o repositório
-git clone [https://github.com/Domisnnet/Calculator-Vue.Js.git](https://github.com/Domisnnet/Calculator-Vue.Js.git)
+git clone https://github.com/Domisnnet/Calculator-Vue.Js.git(https://github.com/Domisnnet/Calculator-Vue.Js.git)
 
 # Acessar a pasta
 cd Calculator-Vue.Js
