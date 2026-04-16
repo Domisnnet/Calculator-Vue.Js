@@ -8,6 +8,8 @@
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-Vue.js%20%7C%20CSS-4FC08D)
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Calculator-Vue.Js/blob/main/LICENSE)
 
+![Calculadora](src/assets/calculadora.png)
+
 Bem-vindo à **Calculadora Vue**! Diferente de uma calculadora simples em JS, este projeto utiliza o ecossistema **Vue.js** para gerenciar uma interface reativa e modular. O foco aqui foi a criação de um componente principal (`MainCalculator`) que orquestra a lógica aritmética enquanto mantém uma interface elegante e minimalista, utilizando tipografia customizada para uma experiência de usuário superior.
 
 ---
