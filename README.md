@@ -1,12 +1,12 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/Domisnnet/Calculadora-Vue.Js?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Domisnnet/Calculadora-Vue.Js?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/Domisnnet/Calculadora-Vue.Js?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Domisnnet/Calculator-Vue.Js?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Domisnnet/Calculator-Vue.Js?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Domisnnet/Calculator-Vue.Js?style=for-the-badge)
 
 <h2 id="sobre-o-projeto">1. Calculadora Vue: Engenharia de Estados 🧮</h2>
 
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-Vue.js%20%7C%20CSS-4FC08D)
-[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Calculadora-Vue.Js/blob/main/LICENSE)
+[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Calculator-Vue.Js/blob/main/LICENSE)
 
 Bem-vindo à **Calculadora Vue**! Diferente de uma calculadora simples em JS, este projeto utiliza o ecossistema **Vue.js** para gerenciar uma interface reativa e modular. O foco aqui foi a criação de um componente principal (`MainCalculator`) que orquestra a lógica aritmética enquanto mantém uma interface elegante e minimalista, utilizando tipografia customizada para uma experiência de usuário superior.
 
@@ -17,7 +17,7 @@ Bem-vindo à **Calculadora Vue**! Diferente de uma calculadora simples em JS, es
 | 🧮 O Projeto | 🛠️ Técnico | 🤝 Comunidade |
 | :---: | :---: | :---: |
 | [![1. Sobre](https://img.shields.io/badge/1%20-%20Sobre-4CAF50)](#sobre-o-projeto) | [![5. Destaques](https://img.shields.io/badge/5%20-%20Destaques-607D8B)](#destaques-tecnicos) | [![9. Código](https://img.shields.io/badge/9%20-%20Código-795548)](#codigo-fonte) |
-| [![2. Techs](https://img.shields.io/badge/2%20-%20Techs-2196F3)](#tecnologias-utilizadas) | [![6. Repositório](https://img.shields.io/badge/6%20-%20Repo-009688)](#codigo-fonte) | [![10. Créditos](https://img.shields.io/badge/10%20-%20Créditos-607D8B)](#créditos) |
+| [![2. Techs](https://img.shields.io/badge/2%20-%20Techs-2196F3)](#tecnologias-utilizadas) | [![6. Instalação](https://img.shields.io/badge/6%20-%20Instala%C3%A7%C3%A3o-009688)](#instalacao) | [![10. Créditos](https://img.shields.io/badge/10%20-%20Créditos-607D8B)](#créditos) |
 | [![3. Acessar](https://img.shields.io/badge/3%20-%20Acessar-FF9800)](#como-acessar) | [![7. Contribuir](https://img.shields.io/badge/7%20-%20Contribuir-3F51B5)](#como-contribuir) | [![11. Licença](https://img.shields.io/badge/11%20-%20Licença-E91E63)](#licenca) |
 | [![4. Funções](https://img.shields.io/badge/4%20-%20Funções-9C27B0)](#funcionalidades) | [![8. FAQ](https://img.shields.io/badge/8%20-%20FAQ-FFC107)](#faq) | [![12. Perfil](https://img.shields.io/badge/12%20-%20Perfil-212121)](#perfil-do-github) |
 
@@ -71,11 +71,17 @@ A implementação de fontes locais via `@font-face` assegura que o design "Robot
 
 ---
 
-<h2 id="codigo-fonte">6. 📂 Repositório</h2>
+<h2 id="instalacao">6. 🚀 Instalação e Configuração Local</h2>
 
 Explore a lógica de componentes desta Calculadora:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FCalculadora--Vue.Js-1DB954?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Calculadora-Vue.Js)
+```bash
+# Clonar o repositório
+git clone https://github.com/Domisnnet/Calculator-Vue.Js.git(https://github.com/Domisnnet/Calculator-Vue.Js.git)
+
+# Acessar a pasta
+cd Calculator-Vue.Js
+```
 
 ---
 
@@ -85,11 +91,17 @@ Siga os passos abaixo para adicionar novas funções matemáticas:
 
 | Fase | Ação | Link / Comando |
 | :---: | :--- | :--- |
-| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/Calculadora-Vue.Js/fork) |
+| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/Calculator-Vue.Js/fork) |
 | **02** | **Branch** | `git checkout -b feature/FuncaoPorcentagem` |
 | **03** | **Commit** | `git commit -m 'feat: adição da lógica de porcentagem'` |
 | **04** | **Push** | `git push origin feature/FuncaoPorcentagem` |
-| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Calculadora-Vue.Js/compare) |
+| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Calculator-Vue.Js/compare)
+
+### 🐛 Encontrou um problema?
+Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
+
+[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/Kill-Buzz?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/Calculator-Vue.Js/issues)
+[![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/Calculator-Vue.Js/issues/new)
 
 ---
 
@@ -130,7 +142,7 @@ A Calculadora Vue representa um marco na organização de interfaces reativas:
 
 <h2 id="licenca">11. 📄 Licença</h2>
 
-Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Calculadora-Vue.Js/blob/main/LICENSE)
+Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Calculator-Vue.Js/blob/main/LICENSE)
 
 ---
 
