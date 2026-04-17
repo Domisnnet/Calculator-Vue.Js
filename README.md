@@ -125,7 +125,9 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 Analise os componentes e a tipografia do projeto:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FCalculator--Vue.Js-4FC08D?style=for-the-badge&logo=vue.js&labelColor=0d1117)](https://domisnnet.github.io/Calculator-Vue.Js/)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)
+[![Repositório](https://img.shields.io/badge/Acessar%20Projeto-Domisnnet%2FCalculator--Vue.Js-4FC08D?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Domisnnet/Calculator-Vue.Js)
+
 ---
 
 <h2 id="créditos">10. 📝 Créditos & Reconhecimentos</h2>
